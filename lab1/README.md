@@ -18,8 +18,8 @@
 ## Инструкция пользователя
 
 ```
-sudo insmod lab3.ko
-sudo rmmod lab3.ko
+sudo insmod lab.ko
+sudo rmmod lab.ko
 sudo dmesg
 ```
 
